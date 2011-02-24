@@ -1,0 +1,16 @@
+Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=196
+Upstream-Name: Linaro Artwork
+Upstream-Maintainer: Linaro Team <everyone@linaro.org>
+Upstream-Source: https://launchpad.net/linaro-artwork
+
+Files: lib/*
+Copyright: Copyright (C) 2009 Canonical Ltd.
+License: GPL-3
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL-3' file.
+
+Files: debian/*
+Copyright: © 2010, Jamie Bennett <jb@canonical.com>
+License: GPL-3
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL-3' file.

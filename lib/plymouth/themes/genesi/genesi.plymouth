@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Genesi
+Description=Genesi theme for Efika MX platforms
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/genesi
+ScriptFile=/lib/plymouth/themes/genesi/genesi.script

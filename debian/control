@@ -1,0 +1,16 @@
+Source: genesi-artwork
+Section: x11
+Priority: optional
+Maintainer: Matt Sealey <matt@genesi-usa.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.3
+
+Package: genesi-plymouth-theme-logo
+Architecture: all
+Depends: ${misc:Depends}, plymouth, plymouth-label
+Description: Genesi boot splash for Plymouth
+
+Package: genesi-wallpaper
+Architecture: all
+Depends: ${misc:Depends}, ubuntu-artwork
+Description: Genesi artwork for the Desktop
