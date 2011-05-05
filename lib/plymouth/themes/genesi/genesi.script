@@ -32,9 +32,9 @@ text_colour.green = 1.0;
 text_colour.blue = 1.0;
 
 # Tinted text #0066CC
-tinted_text_colour.red = 0.0;
-tinted_text_colour.green = 0.4;
-tinted_text_colour.blue = 0.8;
+tinted_text_colour.red = 1.0;
+tinted_text_colour.green = 1.0;
+tinted_text_colour.blue = 1.0;
 
 # Action Text - #ffffff - RGB 255 255 255
 action_text_colour.red = 1.0;
