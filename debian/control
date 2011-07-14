@@ -14,3 +14,5 @@ Package: genesi-wallpaper
 Architecture: all
 Depends: ${misc:Depends}, ubuntu-artwork
 Description: Genesi artwork for the Desktop
+Replaces: ubuntu-artwork
+Breaks: ubuntu-artwork

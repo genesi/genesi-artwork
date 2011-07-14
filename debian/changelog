@@ -1,6 +1,12 @@
+genesi-artwork (2.0.0-20110714) maverick; urgency=low
+
+  * Boot logo text should be white for best readability
+
+ -- Matt Sealey <matt@genesi-usa.com>  Thu, 14 Jul 2011 12:27:09 -0600
+
 genesi-artwork (0.0.1) maverick; urgency=low
 
   * Genesi boot splashes
 
- -- André Siegel <asiegel@genesi-usa.com>  Thu, 03 Feb 2010 19:24:59 +0600
+ -- André Siegel <asiegel@genesi-usa.com>  Thu, 03 Feb 2011 19:24:59 +0600
 
