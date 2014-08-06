@@ -7,12 +7,13 @@ Standards-Version: 3.8.3
 
 Package: genesi-plymouth-theme-logo
 Architecture: all
-Depends: ${misc:Depends}, plymouth, plymouth-label
+Depends: plymouth, plymouth-label
+Section: x11
+Priority: optional
 Description: Genesi boot splash for Plymouth
 
 Package: genesi-wallpaper
 Architecture: all
-Depends: ${misc:Depends}, ubuntu-artwork
 Description: Genesi artwork for the Desktop
-Replaces: ubuntu-artwork
-Breaks: ubuntu-artwork
+Replaces: ubuntu-wallpapers
+Priority: optional

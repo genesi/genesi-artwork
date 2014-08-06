@@ -1,3 +1,9 @@
+genesi-artwork (2.0.0-20140806) maverick; urgency=low
+
+  * Pulled in changes by wschaub, replaced default wallpaper with dithered version
+
+ -- Chris Jenkins <chris.jenkins@genesi-usa.com>  Wed, 06 Aug 2014 19:01:00 -0400
+
 genesi-artwork (2.0.0-20110714) maverick; urgency=low
 
   * Boot logo text should be white for best readability
